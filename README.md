@@ -19,18 +19,3 @@ Shared Memes can be displayed in a table or grid view. The grid view has a float
 * TableViewControllers and CollectionViewControllers
 * Navigation Controllers and the navigation stack
 * TabViewController
-
-## User Interface
-
-### Generated and shared Memes
-
-![alt text](Screenshots/SharedMemes_ListView.png "Shared Memes - Table View")
-![alt text](Screenshots/SharedMemes_CollectionView.png "Shared Memes - Collection View")
-
-### Detailed Meme View
-
-![alt text](Screenshots/DetailedMemeView.png "Show shared meme in detail")
-
-### Create Meme View
-
-![alt text](Screenshots/CreateMeme.png "Create a meme")
